@@ -7,7 +7,7 @@ Practice/deploy tools that will help me in my SRE career. Objectives might vary 
 Dell Optiplex 7050 Micro (Intel Core i5-6500T @ 2.5 GHz, 8GB RAM, 256GB SSD)
 
 # Day One:
-##- Initial Infrastructure & Prometheus Deployment
+## Initial Infrastructure & Prometheus Deployment
 
 ### Actions Taken & Progress
 
