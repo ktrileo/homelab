@@ -1,7 +1,7 @@
 # Site Reliability Engineering Home Lab Setup Log
 
 ## Project Goal
-Practice/deploy tools that will help me in my SRE career. Objectives might vary based on what my time allows me to do.
+To practice/deploy tools that will help me in my SRE journey. Objectives might vary based on what my time allows me to do.
 
 ## Hardware used
 Dell Optiplex 7050 Micro (Intel Core i5-6500T @ 2.5 GHz, 8GB RAM, 256GB SSD)
